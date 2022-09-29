@@ -2,4 +2,4 @@
 ---
 ## Description
 ---
-### Basic bootstrap boilerplate for making websites
+### Basic bootstrap template for making websites
